@@ -1,5 +1,6 @@
 # 🚗 Car Sales Data Analysis | SQL & Power BI
 
+
 ## 🔍 Project Overview
 
 This project explores a car sales dataset containing vehicle manufacturers, models, sales volumes, prices, vehicle types, and technical specifications.
