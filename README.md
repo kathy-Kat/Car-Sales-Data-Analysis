@@ -9,6 +9,11 @@ The objective is to transform raw data into a reliable dataset for analysis and 
 
 The project follows an end-to-end data analytics workflow, from data quality assessment and SQL-based cleaning to exploratory analysis and business intelligence visualisation.
 
+## 📷 Preview
+<img width="1554" height="1011" alt="image" src="https://github.com/user-attachments/assets/9ff2addc-c86d-45e5-af33-22c6695bdea2" />
+
+<br>
+
 ## 📌 Objectives
 
 - Assess and improve data quality using SQL.
