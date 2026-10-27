@@ -3,11 +3,11 @@
 
 ## 🔍 Project Overview
 
-This project explores a car sales dataset containing vehicle manufacturers, models, sales volumes, prices, vehicle types, and technical specifications.
+📍This project explores a car sales dataset containing vehicle manufacturers, models, sales volumes, prices, vehicle types, and technical specifications.
 
-The objective is to transform raw data into a reliable dataset for analysis and develop an interactive Power BI dashboard that highlights sales performance, pricing patterns, and differences between vehicle models and manufacturers.
+📍The objective is to transform raw data into a reliable dataset for analysis and develop an interactive Power BI dashboard that highlights sales performance, pricing patterns, and differences between vehicle models and manufacturers.
 
-The project follows an end-to-end data analytics workflow, from data quality assessment and SQL-based cleaning to exploratory analysis and business intelligence visualisation.
+📍The project follows an end-to-end data analytics workflow, from data quality assessment and SQL-based cleaning to exploratory analysis and business intelligence visualisation.
 
 ## 📷 Preview
 <img width="1554" height="1011" alt="image" src="https://github.com/user-attachments/assets/9ff2addc-c86d-45e5-af33-22c6695bdea2" />
