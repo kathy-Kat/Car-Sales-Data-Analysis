@@ -1,5 +1,6 @@
-# 🚗 Car Sales Data Analysis | SQL & Power BI
+# 🚗 Car Sales Data Analysis | SQL & Power BI 🚗
 
+<br>
 
 ## 🔍 Project Overview
 
